@@ -100,4 +100,5 @@ Happy case singin
     sleep                   2s
     @open_icon_profile
     @click_button_logout
-    sleep                   2s
+    sleep                   1s
+    Close Browser
